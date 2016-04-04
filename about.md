@@ -2,37 +2,35 @@
 layout: page
 title: About
 ---
-![This was taken during fall 2015.](/assets/AmanSharma175by175.png)
+![Navneet Sharma.](/assets/NavneetSharma175By175.png)
 
-I am Senior Technical Consultant for Private and Public cloud. I am passionate about technology and how it can change the way we experience life. You can connect with me on Twitter [@20aman](https://twitter.com/20aman){:target="_blank"}. You can also find me on [Linked In](https://www.linkedin.com/in/20aman){:target="_blank"}.
+I am Senior Technical Lead for Business Intelligence. I am passionate about data and related technologies and how you can use it to gain invaluable insights. You can find me on [Linked In](https://ca.linkedin.com/in/nsharma7){:target="_blank"}.
 
-My Moto:
+My Belief:
 <p class="message">
-  Do it with Passion or Not at all!
+  **Knowledge** is having the right answer. **Intelligence** is asking the right question.!
 </p>
 
 Various technologies which I focus on, but not limited to, are:
 
-* Microsoft Azure & AWS Cloud Platforms
-* Azure Automation
-* PowerShell Scripting
-* System Center Products - esp. Orchestrator, Virtual Machine Manager, Service Manager, etc.
-* Application Insights
-* Visual Studio, Git, GitHub, TFS & Release Management
-* Dot Net Application development (esp. Web using MVC)
-* Windows Azure Pack (WAP)
-* Service Management Automation (SMA)
+* SQL Server Integration Services
+* SQL Server Reporting Services
+* T-SQL Scripting
+* Dot Net Application Development
+* Cognos ICM
 
 
 ## What I have been doing
 
-I have been working with great companies like Infosys (2.5 yrs), [Microsoft (5 yrs)](http://www.microsoft.com){:target="_blank"} & [Infront Consulting Group (present)](http://www.infrontconsulting.com/){:target="_blank"}. I have been working on various Microsoft products from within or outside Microsoft, working closely with their product teams. I have been busy building enterprise solutions around:
+I have been working with great companies like Infosys (2.7 yrs), [Thomson Reuters (4 yrs)](http://thomsonreuters.com){:target="_blank"}, [Tata Consultancy Services (<1 yrs)](http://www.tcs.com/){:target="_blank"} & Polaris Consulting Services (present). 
+
+I have been busy building enterprise solutions around:
 
 * Azure Billing & Chargeback
 * Enterprise Datacenter Management solutions
 * System Center customization solutions
 * Windows Azure Pack customizations and resource providers
 
-Have questions or suggestions? Feel free to contact me on social media or on my email id at [20aman@gmail.com](mailto:20aman@gmail.com?subject=HarvestingClouds).
+Have questions or suggestions? Feel free to contact me on social media or on my email id at [nkhurmi@gmail.com](mailto:nkhurmi@gmail.com?subject=DataAndBI).
 
 Thanks for reading!
