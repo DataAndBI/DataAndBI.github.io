@@ -8,7 +8,7 @@ I am Senior Technical Lead for Business Intelligence. I am passionate about data
 
 My Belief:
 <p class="message">
-  **Knowledge** is having the right answer. **Intelligence** is asking the right question.!
+  <b>Knowledge</b> is having the right answer. <b>Intelligence</b> is asking the right question.!
 </p>
 
 Various technologies which I focus on, but not limited to, are:
